@@ -47,6 +47,13 @@ Jupyter Notebook
 
 The prediction results.png shows the results after submission
 
+# 🚀  Future work:
+- Model Comparison, evaluate models like random forest and logistic regression & consider ensembling
+- Feature Engineering: create new behavioural features to improve predictive power like viewing-hour trend
+- Hyperparameter Tuning: Use optimization tools like Optuna or Bayesian search for faster, more effective tuning.
+- Communication: build a dashboard or visual to  communicate clearly my findings and recommendations
+
+
    
 
 
