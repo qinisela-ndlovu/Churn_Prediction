@@ -35,7 +35,7 @@ Best model : for now XGBoost,
 AUC = 74% on test set
 
 # Tools used:
-Python
+XGBoost
 
 pandas, numpy
 
