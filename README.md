@@ -1,6 +1,6 @@
 # Churn Prediction | Data Science Challenge
 
-This project is a fun data science challenge from Coursera, I was predicting which subscribers are likely to cancel their subscription to online video streaming company.
+Predicting which subscribers are likely to cancel their subscription to online video streaming company.
 This challenge is testing your data science skills.
 
 #  Problem statement
